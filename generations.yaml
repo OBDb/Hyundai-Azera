@@ -1,0 +1,20 @@
+references:
+  - "https://en.wikipedia.org/wiki/Hyundai_Grandeur"
+
+generations:
+  - name: "Fourth Generation (TG)"
+    start_year: 2006
+    end_year: 2011
+    description: "The Grandeur TG, sold as the Azera in North America and other markets, with 3.3 and 3.8-liter Lambda V6 engines."
+  - name: "Fifth Generation (HG)"
+    start_year: 2012
+    end_year: 2017
+    description: "The Grandeur HG, sold as the Azera, with the 3.0 and 3.3-liter Lambda II GDi V6 engines."
+  - name: "Sixth Generation (IG)"
+    start_year: 2018
+    end_year: 2022
+    description: "The Grandeur IG, sold as the Azera in some markets, offered with gasoline, LPG and hybrid powertrains."
+  - name: "Seventh Generation (GN7)"
+    start_year: 2023
+    end_year: null
+    description: "The Grandeur GN7, sold as the Azera in some markets, with 2.5 and 3.5-liter engines and a 1.6-liter turbo hybrid."
