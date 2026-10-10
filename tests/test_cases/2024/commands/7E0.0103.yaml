@@ -4,3 +4,7 @@ test_cases:
     FUELSYS1: CL
     FUELSYS2: CL
   response: '7E80441030202'
+- expected_values:
+    FUELSYS1: OL-Drive B1+B2
+    FUELSYS2: OL-Drive B1+B2
+  response: '7E80441034444'
